@@ -3,8 +3,10 @@
 **Project Supervisor: Mr Rahul Pradhan (Assistant Professor )**
 
 **Project Group Members:**
-1.Abhishek Gupta (Sec- G Univ Roll No. - 181500016)
-2.Naman Shukla (Sec-G Univ Roll No. - 181500312)
+
+**1.Abhishek Gupta (Sec- G Univ Roll No. - 181500016)**
+
+**2.Naman Shukla (Sec-G Univ Roll No. - 181500312)**
 
 **About the Project:**
 
